@@ -1,0 +1,45 @@
+<html>
+<head>
+<style>
+.rosado{background-color: pink; width: 50%; float: left;}
+.noticia{float: left;}
+.tabla{background-color: lightblue; width:101%;}
+</style>
+</head>
+<body>
+<div>
+ <div>
+	<div class="rosado">
+		<img src="riri.jpg">
+	</div>
+	<div class="rosado">
+
+		<h1>Rihanna hace historia:</h1>
+		Es la primer mujer negra al frente de una marca de lujo
+		Aún no sale al mercado y Fenty ya es considerada por los críticos una de las marcas más poderosas.
+		Rihanna se convierte así en la primera mujer negra en la historia al frente de una marca de lujo
+	</div>
+</div>
+   <div class="tabla">
+     <h1>GANADORES</h1>
+    <table >
+	<tr>
+    <th>Nombre</th>
+    <th>Apellido</th>
+    <th>RUT</th>
+    </tr>
+    <tr>
+    <td>KARLA</td>
+    <td>LETELIER</td>
+    <td>18784431-2</td>
+    </tr>
+    <tr>
+    <td>MARCELA</td>
+    <td>LETELIER</td>
+    <td>11402662-K</td>
+    </tr>
+    </table>
+  </div>
+  </div>
+</body>
+</html>
